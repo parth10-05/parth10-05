@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Parth Shah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and AI enthusiast from India</h3>
 
-- 🌱 I’m currently learning **LLMs and RAG**
+- 🌱 I’m currently diving into **LLMs, RAG pipelines, and Multi-Agent AI Systems**
+- 💻 Exploring real-world AI + Dev projects across **healthcare, automation, and content generation**
+- 🔭 Currently working on a **Hybrid Wellness AI Agent** using Langchain, WhatsApp API, and a web portal
+- 🧠 Interested in **Machine Learning, Computer Vision, and Generative AI**
+- 🏆 Published research in **BCI-based Emotion Detection** (Conference 2024)
+- 🚀 Looking to collaborate on **innovative AI x Development** projects
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +22,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parth10_05" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -55,3 +64,33 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">💡 Fun Additions:</h3>
+
+- 🎮 Competitive Programmer on Codeforces & Codechef  
+- 🎤 Organizer at CSI Nirma and TEDxPrahladnagar  
+- 📕 Building a portfolio of 10 advanced AI + Dev projects  
+- 💬 Ask me about Python, ML, Prompt Engineering, or DevOps  
+- 🧩 Fun Fact: I use GitHub to track both code and calories (via API automation 😄)
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=parth1005&show_icons=true&locale=en" alt="parth1005" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth1005&" alt="parth1005" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth1005&show_icons=true&locale=en&layout=compact" alt="parth1005" />
+</p>
+
+---
+
+Thanks for visiting! 🙌 Let’s build something awesome together 🚀
